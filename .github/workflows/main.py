@@ -2,7 +2,8 @@
 """
 This is a coin flipper program, to calculate probability, mean, median and standart deviance in "x" flips
 Also, I shoul say it isn't complete. I don't know why, but sometimes it flips the coin 1 time more than I 
-wanted. If anyone know how to fix it, feel free to contact me.
+wanted. If anyone know how to fix it, feel free to contact me. But I don't want to import any other package
+or use other command but "randrange" from random, because the idea is learn how to use this command.
 The texts in the code are in portuguese, because I'm brazilian and that script (and probably every script 
 I will write) is only to learn python basics, but if anyone need I can translate it.
 """
